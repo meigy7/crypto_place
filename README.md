@@ -1,2 +1,2 @@
 # crypto_place
-CryptoScraper
+MultiCryptoScraper
